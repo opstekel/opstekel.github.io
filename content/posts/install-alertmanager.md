@@ -65,6 +65,7 @@ Restart service alertmanager.
 systemctl daemon-reload
 systemctl restart alertmanager.service
 systemctl enable alertmanager.service
+systemctl status alertmanager.service
 ```
 
 Cek listen port alertmanager
