@@ -8,12 +8,12 @@ ShowToc: true
 TocOpen: true
 ---
 
-# Lingkungan
+# Topologi
 
 
 ![](/images/diagram-prometheus.png)
 
-## Install Node Exporter
+# Install Node Exporter
 
 Node exporter adalah aplikasi yang digunakan untuk mengekspor metrik dari sebuah sistem atau node ke dalam format yang dapat digunakan oleh sistem monitoring seperti prometheus. Node exporter berfungsi sebagai agen yang diinstall pada setiap node atau VM yang ingin di monitoring.
 
@@ -81,7 +81,7 @@ Check metrics node exporter.
 curl http://<ip-node-exporter>:9100/metrics
 ```
 
-## Install Prometheus
+# Install Prometheus
 
 Prometheus adalah sistem monitoring open source yang dirancang khusus untuk memantau dan mengumpulkan data metrik dari berbagai sistem dan layanan.
 
@@ -194,7 +194,7 @@ Akses dashboard prometheus.
 
 ![](/images/dashboard-prometheus.png)
 
-## Install Grafana
+# Install Grafana
 
 Grafana adalah software open source yang digunakan untuk membuat visualisasi atau dashboard monitoring dari metrics yang sudah di kumpulkan oleh prometheus.
 
