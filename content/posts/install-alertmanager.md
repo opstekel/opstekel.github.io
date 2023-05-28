@@ -68,7 +68,7 @@ route:
 receivers:
 - name: slack_general
   slack_configs:
-  # Setting slack agar enable incoming webhooks dan copy url ke bawah ini.
+  # Setting slack agar enable incoming webhooks dan copy url ke bawah ini (optional).
   - api_url: 'https://hooks.slack.com/services/<incoming-web-hooks-service>'
     channel: '#alert'
     icon_url: https://avatars3.githubusercontent.com/u/3380462
