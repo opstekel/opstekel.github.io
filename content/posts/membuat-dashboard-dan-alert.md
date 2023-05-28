@@ -1,7 +1,7 @@
 ---
 title: "Membuat Dashboard dan Mengirim Notifikasi ke Telegram"
 description: "Add Data Source, Create Panel Dashboard, Create Alert and Send to Telegram"
-date: "2023-05-28"
+date: "2023-05-27"
 tags: ["Grafana", "AlertManager"]
 categories: ["Monitoring"]
 ShowToc: true

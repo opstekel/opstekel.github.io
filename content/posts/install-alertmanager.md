@@ -1,7 +1,7 @@
 ---
 title: "Install AlertManager"
 description: "Mengirim Notifikasi dengan AlertManager"
-date: "2023-05-27"
+date: "2023-05-26"
 tags: ["AlertManager"]
 categories: ["Monitoring"]
 ShowToc: true
