@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Ginton Afnanin</title>
-    <link>https://opstekel.github.io/</link>
-    <description>Recent content on Ginton Afnanin</description>
+    <title>Grafana on Ginton Afnanin</title>
+    <link>https://opstekel.github.io/tags/grafana/</link>
+    <description>Recent content in Grafana on Ginton Afnanin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://opstekel.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://opstekel.github.io/tags/grafana/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Install Prometheus dan Grafana</title>
       <link>https://opstekel.github.io/posts/prometheus-grafana/</link>
@@ -15,8 +15,6 @@
       <guid>https://opstekel.github.io/posts/prometheus-grafana/</guid>
       <description>Monitor Server Dengan Prometheus dan Grafana</description>
     </item>
-    
-    
     
   </channel>
 </rss>
