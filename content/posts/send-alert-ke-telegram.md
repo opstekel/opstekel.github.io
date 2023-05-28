@@ -10,7 +10,7 @@ TocOpen: true
 
 # Prasyarat
 
-- Sudah terinstall prometheus dan grafana
+- Sudah terinstall prometheus dan grafana.
 
 Baca juga:
 
@@ -75,7 +75,7 @@ Generate.
 
 ![](/images/email9.png)
 
-Copy password dan paste di section password [smtp]
+Copy password dan paste di section password [smtp].
 
 ![](/images/email10.png)
 
