@@ -56,6 +56,51 @@ nano /etc/alertmanager/alertmanager.yml
 #...
 global:
   resolve_timeout: 5m
+
+route:
+ group_by: ['alertname']
+ receiver: slack_general
+ routes:
+  - match:
+      severity: slack
+    receiver: slack_general
+
+receivers:
+- name: slack_general
+  slack_configs:
+  # Setting slack agar menerima incoming webhooks dan copy url ke bawah ini.
+  - api_url: 'https://hooks.slack.com/services/<incoming-web-hooks-service>'
+    channel: '#alert'
+    icon_url: https://avatars3.githubusercontent.com/u/3380462
+    title: |-
+      [{{ .Status | toUpper }}{{ if eq .Status "firing" }}:{{ .Alerts.Firing | len }}{{ end }}] {{ .CommonLabels.alertname }} for {{ .CommonLabels.job }}
+      {{- if gt (len .CommonLabels) (len .GroupLabels) -}}
+        {{" "}}(
+        {{- with .CommonLabels.Remove .GroupLabels.Names }}
+          {{- range $index, $label := .SortedPairs -}}
+            {{ if $index }}, {{ end }}
+            {{- $label.Name }}="{{ $label.Value -}}"
+          {{- end }}
+        {{- end -}}
+        )
+      {{- end }}
+    text: >-
+      {{ range .Alerts -}}
+      *Alert:* {{ .Annotations.title }}{{ if .Labels.severity }} - `{{ .Labels.severity }}`{{ end }}
+
+      *Description:* {{ .Annotations.description }}
+
+      *Details:*
+        {{ range .Labels.SortedPairs }} • *{{ .Name }}:* `{{ .Value }}`
+        {{ end }}
+      {{ end }}
+
+inhibit_rules:
+  - source_match:
+      severity: 'critical'
+    target_match:
+      severity: 'warning'
+    equal: ['alertname', 'dev', 'instance']
 #...
 ```
 
