@@ -14,7 +14,7 @@
     <loc>https://opstekel.github.io/tags/grafana/</loc>
     <lastmod>2023-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://opstekel.github.io/posts/membuat-dashboard-dan-alert/</loc>
+    <loc>https://opstekel.github.io/posts/enable-image-renderer/</loc>
     <lastmod>2023-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://opstekel.github.io/categories/monitoring/</loc>
@@ -26,17 +26,20 @@
     <loc>https://opstekel.github.io/tags/</loc>
     <lastmod>2023-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://opstekel.github.io/posts/install-alertmanager/</loc>
+    <loc>https://opstekel.github.io/posts/membuat-dashboard-dan-alert/</loc>
     <lastmod>2023-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://opstekel.github.io/posts/install-alertmanager/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://opstekel.github.io/posts/install-prometheus-grafana/</loc>
-    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://opstekel.github.io/tags/node-exporter/</loc>
-    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://opstekel.github.io/tags/prometheus/</loc>
-    <lastmod>2023-05-27T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://opstekel.github.io/archives/</loc>
   </url><url>
