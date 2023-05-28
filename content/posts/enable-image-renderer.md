@@ -1,5 +1,5 @@
 ---
-title: "Mengirim Notifikasi dengan Gambar Panel Dashboard"
+title: "Mengirim Notifikasi dengan Screenshot Image Dashboard"
 description: "Enable Image Renderer Untuk Mengirim Screenshot Panel Dashboard ke Notifikasi"
 date: "2023-05-28"
 tags: ["Grafana", "AlertManager"]
