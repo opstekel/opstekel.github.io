@@ -1,7 +1,7 @@
 ---
 title: "Install Prometheus dan Grafana"
 description: "Monitor Server Dengan Prometheus dan Grafana"
-date: "2023-05-28"
+date: "2023-05-27"
 tags: ["Node Exporter", "Prometheus", "Grafana"]
 categories: ["Monitoring"]
 ShowToc: true
