@@ -2,7 +2,7 @@
 title: "Install AlertManager"
 description: "Mengirim Notifikasi dengan AlertManager"
 date: "2023-05-25"
-tags: ["AlertManager"]
+tags: ["AlertManager", "Prometheus"]
 categories: ["Monitoring"]
 ShowToc: true
 TocOpen: true
