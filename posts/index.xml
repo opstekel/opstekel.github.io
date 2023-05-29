@@ -6,20 +6,29 @@
     <description>Recent content in Posts on Ginton Afnanin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://opstekel.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://opstekel.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mengirim Notifikasi Alert ke Email</title>
-      <link>https://opstekel.github.io/posts/send-alert-ke-telegram/</link>
+      <title>Mengirim Notifikasi Alert Grafana ke Slack</title>
+      <link>https://opstekel.github.io/posts/send-alert-ke-slack/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opstekel.github.io/posts/send-alert-ke-slack/</guid>
+      <description>Mengirim Notifikasi ke Multiple Channel di Slack</description>
+    </item>
+    
+    <item>
+      <title>Mengirim Notifikasi Alert Grafana ke Email</title>
+      <link>https://opstekel.github.io/posts/send-alert-ke-email/</link>
       <pubDate>Sun, 28 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://opstekel.github.io/posts/send-alert-ke-telegram/</guid>
+      <guid>https://opstekel.github.io/posts/send-alert-ke-email/</guid>
       <description>Mengirim Notifikasi ke Email Menggunakan SMTP</description>
     </item>
     
     <item>
       <title>Mengirim Notifikasi dengan Screenshot Image Dashboard</title>
       <link>https://opstekel.github.io/posts/enable-image-renderer/</link>
-      <pubDate>Sun, 28 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://opstekel.github.io/posts/enable-image-renderer/</guid>
       <description>Enable Image Renderer Untuk Mengirim Screenshot Panel Dashboard ke Notifikasi</description>
@@ -28,7 +37,7 @@
     <item>
       <title>Membuat Dashboard dan Mengirim Notifikasi ke Telegram</title>
       <link>https://opstekel.github.io/posts/membuat-dashboard-dan-alert/</link>
-      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://opstekel.github.io/posts/membuat-dashboard-dan-alert/</guid>
       <description>Add Data Source, Create Panel Dashboard, Create Alert and Send to Telegram</description>
@@ -37,7 +46,7 @@
     <item>
       <title>Install AlertManager</title>
       <link>https://opstekel.github.io/posts/install-alertmanager/</link>
-      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://opstekel.github.io/posts/install-alertmanager/</guid>
       <description>Mengirim Notifikasi dengan AlertManager</description>
@@ -46,7 +55,7 @@
     <item>
       <title>Install Prometheus dan Grafana</title>
       <link>https://opstekel.github.io/posts/install-prometheus-grafana/</link>
-      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://opstekel.github.io/posts/install-prometheus-grafana/</guid>
       <description>Monitor Server Dengan Prometheus dan Grafana</description>
