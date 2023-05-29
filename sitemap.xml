@@ -38,6 +38,9 @@
     <loc>https://opstekel.github.io/posts/</loc>
     <lastmod>2023-05-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://opstekel.github.io/tags/prometheus/</loc>
+    <lastmod>2023-05-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://opstekel.github.io/tags/</loc>
     <lastmod>2023-05-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -57,9 +60,6 @@
     <lastmod>2023-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://opstekel.github.io/tags/node-exporter/</loc>
-    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://opstekel.github.io/tags/prometheus/</loc>
     <lastmod>2023-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://opstekel.github.io/archives/</loc>
