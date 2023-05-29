@@ -1,7 +1,7 @@
 ---
 title: "Mengirim Notifikasi dengan Screenshot Image Dashboard"
 description: "Enable Image Renderer Untuk Mengirim Screenshot Panel Dashboard ke Notifikasi"
-date: "2023-05-28"
+date: "2023-05-27"
 tags: ["Grafana", "AlertManager"]
 categories: ["Monitoring"]
 ShowToc: true
@@ -28,7 +28,7 @@ nano /etc/grafana/grafana.ini
 # Tambahkan line dibawah ini
 [unified_alerting.screenshots]
 capture = true
-##...
+#...
 ```
 
 Install dependencies untuk menjalankan fungsi image renderer.

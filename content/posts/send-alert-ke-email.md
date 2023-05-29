@@ -1,5 +1,5 @@
 ---
-title: "Mengirim Notifikasi Alert ke Email"
+title: "Mengirim Notifikasi Alert Grafana ke Email"
 description: "Mengirim Notifikasi ke Email Menggunakan SMTP"
 date: "2023-05-28"
 tags: ["Grafana", "AlertManager"]
