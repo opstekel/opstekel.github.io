@@ -8,6 +8,15 @@
     <language>en</language>
     <lastBuildDate>Mon, 29 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://opstekel.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Ceph Storage</title>
+      <link>https://opstekel.github.io/categories/ceph-storage/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opstekel.github.io/categories/ceph-storage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Monitoring</title>
       <link>https://opstekel.github.io/categories/monitoring/</link>
       <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
