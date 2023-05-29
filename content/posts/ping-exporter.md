@@ -2,7 +2,7 @@
 title: "Install Ping Exporter"
 description: "Melakukan Monitoring Koneksi Instance Menggunakan Ping Exporter"
 date: "2023-05-29"
-tags: ["Ping Exporter"]
+tags: ["Ping Exporter", "Prometheus"]
 categories: ["Monitoring"]
 ShowToc: true
 TocOpen: true
