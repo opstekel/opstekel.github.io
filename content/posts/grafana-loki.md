@@ -18,7 +18,7 @@ TocOpen: true
 
 **Loki**: Penyimpanan log yang dirancang untuk menyimpan dan mengindeks log secara efisien. Loki menggunakan struktur penyimpanan berbasis waktu yang disebut "index" dan "chunk". Log yang dikumpulkan oleh promtail dikirim ke loki untuk disimpan.
 
-Grafana berfungsi sebagai visualisasi jika ingin memonitoring jumlah log ataupun ingin menggunakan fitur grafana alert agar ketika ada log error maka akan mengirimkan notifikasi (optional).
+**Grafana**: berfungsi sebagai visualisasi jika ingin memonitoring jumlah log ataupun ingin menggunakan fitur grafana alert agar ketika ada log error maka akan mengirimkan notifikasi (optional).
 
 
 # Install Promtail
