@@ -6,7 +6,34 @@
     <description>Recent content in Tags on Ginton Afnanin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://opstekel.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://opstekel.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grafana</title>
+      <link>https://opstekel.github.io/tags/grafana/</link>
+      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opstekel.github.io/tags/grafana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Loki</title>
+      <link>https://opstekel.github.io/tags/loki/</link>
+      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opstekel.github.io/tags/loki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Promtail</title>
+      <link>https://opstekel.github.io/tags/promtail/</link>
+      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opstekel.github.io/tags/promtail/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>AlertManager</title>
       <link>https://opstekel.github.io/tags/alertmanager/</link>
@@ -22,15 +49,6 @@
       <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://opstekel.github.io/tags/ceph-metrics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Grafana</title>
-      <link>https://opstekel.github.io/tags/grafana/</link>
-      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://opstekel.github.io/tags/grafana/</guid>
       <description></description>
     </item>
     

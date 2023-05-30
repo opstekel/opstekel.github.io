@@ -6,7 +6,16 @@
     <description>Recent content in Grafana on Ginton Afnanin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://opstekel.github.io/tags/grafana/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://opstekel.github.io/tags/grafana/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Install Promtail Loki</title>
+      <link>https://opstekel.github.io/posts/grafana-loki/</link>
+      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opstekel.github.io/posts/grafana-loki/</guid>
+      <description>Monitoring Log Sistem Menggunakan Promtail dan Loki</description>
+    </item>
+    
     <item>
       <title>Mengirim Notifikasi Alert Grafana ke Slack</title>
       <link>https://opstekel.github.io/posts/send-alert-ke-slack/</link>

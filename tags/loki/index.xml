@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Loki on Ginton Afnanin</title>
+    <link>https://opstekel.github.io/tags/loki/</link>
+    <description>Recent content in Loki on Ginton Afnanin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://opstekel.github.io/tags/loki/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Install Promtail Loki</title>
+      <link>https://opstekel.github.io/posts/grafana-loki/</link>
+      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opstekel.github.io/posts/grafana-loki/</guid>
+      <description>Monitoring Log Sistem Menggunakan Promtail dan Loki</description>
+    </item>
+    
+  </channel>
+</rss>
