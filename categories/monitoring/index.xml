@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 31 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://opstekel.github.io/categories/monitoring/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Install Libvirt Exporter</title>
+      <link>https://opstekel.github.io/posts/prometheus-libvirt-exporter/</link>
+      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://opstekel.github.io/posts/prometheus-libvirt-exporter/</guid>
+      <description>Melakukan Monitoring VM yang Berjalan Di Atas Libvirt</description>
+    </item>
+    
+    <item>
       <title>Membuat Alerting Grafana Dari Log Loki</title>
       <link>https://opstekel.github.io/posts/buat-alert-log-dari-loki/</link>
       <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>

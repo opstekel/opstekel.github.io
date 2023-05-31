@@ -14,6 +14,12 @@
     <loc>https://opstekel.github.io/tags/grafana/</loc>
     <lastmod>2023-05-31T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://opstekel.github.io/posts/prometheus-libvirt-exporter/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://opstekel.github.io/tags/libvirt-exporter/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://opstekel.github.io/categories/logs/</loc>
     <lastmod>2023-05-31T00:00:00+00:00</lastmod>
   </url><url>
@@ -27,6 +33,9 @@
     <lastmod>2023-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://opstekel.github.io/posts/</loc>
+    <lastmod>2023-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://opstekel.github.io/tags/prometheus/</loc>
     <lastmod>2023-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://opstekel.github.io/tags/promtail/</loc>
@@ -54,9 +63,6 @@
     <lastmod>2023-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://opstekel.github.io/tags/ping-exporter/</loc>
-    <lastmod>2023-05-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://opstekel.github.io/tags/prometheus/</loc>
     <lastmod>2023-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://opstekel.github.io/posts/send-alert-ke-email/</loc>
