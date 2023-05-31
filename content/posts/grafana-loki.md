@@ -1,5 +1,5 @@
 ---
-title: "Install Promtail Loki"
+title: "Install Promtail dan Loki"
 description: "Monitoring Log Sistem Menggunakan Promtail dan Loki"
 date: "2023-05-30"
 tags: ["Promtail", "Loki", "Grafana"]
@@ -18,7 +18,7 @@ TocOpen: true
 
 **Loki**: Penyimpanan log yang dirancang untuk menyimpan dan mengindeks log secara efisien. Loki menggunakan struktur penyimpanan berbasis waktu yang disebut "index" dan "chunk". Log yang dikumpulkan oleh promtail dikirim ke loki untuk disimpan.
 
-**Grafana**: berfungsi sebagai visualisasi jika ingin memonitoring jumlah log ataupun ingin menggunakan fitur grafana alert agar ketika ada log error maka akan mengirimkan notifikasi (optional).
+**Grafana**: berfungsi sebagai visualisasi jika ingin memonitoring jumlah log ataupun ingin menggunakan fitur grafana alert agar ketika ada log error maka akan mengirimkan notifikasi (optional). Baca juga artikel [mengirimkan notifikasi error log](https://blog.opstekel.com/posts/buat-alert-log-dari-loki/).
 
 
 # Install Promtail
