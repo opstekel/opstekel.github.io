@@ -3,7 +3,7 @@ title: "Expose Ceph Metrics"
 description: "Mengekspos Metrik Ceph Cluster"
 date: "2023-05-29"
 tags: ["Ceph Metrics", "Prometheus"]
-categories: ["Ceph Storage"]
+categories: ["Ceph Storage", "Monitoring"]
 ShowToc: true
 TocOpen: true
 ---
